@@ -271,7 +271,11 @@ h1, h2, h3, h4, h5,
 
 .top-bar {
   border-bottom: 1px solid #e9ecef !important; }
-
+.col-11{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 4em;
+}
 /* Navbar */
 .site-navbar {
   margin-bottom: 0px;
@@ -1792,3 +1796,35 @@ h1, h2, h3, h4, h5,
   .post-meta a {
     color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
+
+
+.youtube-videos{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+ 
+
+}
+#more-text{
+  margin-top: 7em;
+}
+
+.h-entry{
+  text-align: center;
+}
+@media only screen and (max-width: 768px){
+  .youtube-videos{
+    display: grid;
+    grid-template-columns: 1fr;
+   
+  
+  }
+  .h-entry{
+    padding: 3em 0%;
+    
+  }
+
+  #more-text{
+    margin-top: 2em;
+  }
+  
+}
