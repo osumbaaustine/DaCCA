@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>DaCAA Programme</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta description="" content="">
+  <meta name="description" content="environment and climate change organisation">
+  <meta name="keywords" content="Climate change and environment">
+  <meta name="author" content="TK Solutions">
+  <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
+
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
+  <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/jquery-ui.css">
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+  <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+
+  <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+  <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+  <link rel="stylesheet" href="css/aos.css">
+
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+    <div class="border-bottom top-bar py-2 bg-dark" id="home-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <p class="mb-0">
+              <span class="mr-3"><strong class="text-white">Phone:</strong> <a
+                  href="tel://+254733631047">+254733631047</a></span>
+              <span><strong class="text-white">Email:</strong> <a
+                  href="mailto:info@daccaprogram.org">info@daccaprogram.org</a></span>
+
+
+            </p>
+          </div>
+          <div class="col-md-6">
+            <ul class="social-media">
+              <li><a href="https://web.facebook.com/daccaprogramme/posts/586266185488763?_rdc=1&_rdr" class="p-2"><span
+                    class="icon-facebook"></span></a></li>
+              <li><a href="https://twitter.com/voices4_climate" class="p-2"><span class="icon-twitter"></span></a></li>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center">
+
+          <div class="col-11 col-xl-1">
+            <img src="images/DaCCA New Logo (3).png" alt="logo" style="height:3em">
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">DaCCA<span
+                  class="text-primary">.</span> </a></h1>
+          </div>
+          <div class="col-12 col-md-10 d-none d-xl-block">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+
+              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                <li><a href="#home-section" class="nav-link">Home</a></li>
+                <li><a href="#work-section" class="nav-link">Our Partners</a></li>
+                <li>
+                  <a href="#services-section" class="nav-link">Our Work</a>
+                </li>
+                <li class="has-children">
+                  <a href="#about-section" class="nav-link">About</a>
+                  <ul class="dropdown">
+                    <li><a href="#about-section">Specialties</a></li>
+                    <li><a href="#team-section">Our Team</a></li>
+                  </ul>
+                </li>
+                <li><a href="#blog-section" class="nav-link">Blog</a></li>
+                <li><a href="#contact-section" class="nav-link">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+
+
+          <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#"
+              class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+
+        </div>
+      </div>
+
+    </header>
+
+
+
+    <div class="site-blocks-cover overlay" style="background-image: url(images/newaboutus.JPG);" data-aos="fade"
+      data-stellar-background-ratio="0.5">
+      <div class="container">
+        <div class="row align-items-center justify-content-center text-center">
+
+          <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
+
+            <div class="row justify-content-center mb-4">
+              <div class="col-md-8 text-center">
+                <h1>We are an environmental, <span class="Amazing"></span></h1>
+                <p class="lead mb-5">climate change and governance advocacy program</a></p>
+                <div><a data-fancybox data-ratio="2" href="https://www.youtube.com/channel/UCfHTchWNEJkGAjmS2dwiKfw"
+                    class="btn btn-primary btn-md">Watch our Videos</a></div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="site-section">
+      <section class="site-section" id="work-section">
+        <div class="container">
+          <div class="row mb-5 justify-content-center">
+            <div class="col-md-8 text-center">
+
+              <p class="lead">The Devolution and Climate Change Adaptation programme (DaCCA) currently operates in
+                Western Kenya and has been running since November 2015. It is supported by SustainableEnergy (SE),
+                Denmark through DANIDA funds.
+                The first phase of the programme took an approach of partner driven community projects, as well as
+                facilitation and strengthening of communities to undertake their rights in the county budget hearing
+                process.
+              </p>
+              <p class="lead">
+                <p class="lead">The second phase of the programme began in January 2020 and is set to end in December
+                  2023. This phase will act as a continuation of the first phase with a focus on advocating for the use
+                  of devolved funds from county authorities for upscaling and replication of identified community best
+                  practices on climate change.
+                </p>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 col-lg-4">
+              <div class="p-3 box-with-humber">
+
+                <h2 class="text-primary">Our Vision </h2>
+                <p class="mb-4"> The programme’s vision is to have an increasingly qualified CSO’s sector which works
+                  closely with the most vulnerable groups (right-holders) and duty-bearers on climate change adaptation
+                  interventions. The corporation builds on the opportunities provided by constitutional devolution
+                  processes and the climate change Act.
+                </p>
+                <ul class="list-unstyled ul-check primary">
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+              <div class="p-3 box-with-humber">
+                <h2 class="text-primary">Objective</h2>
+                <p class="mb-4"> The immediate objective of the programme is: Vulnerable populations in Kisumu, Homa Bay
+                  and Migori counties at risk of natural hazards caused by climate change are increasingly supported by
+                  policies and components funded by devolution and climate change funds.
+                </p>
+
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+              <div class="p-3 box-with-humber">
+
+                <h2 class="text-primary"> Our target </h2>
+                <p class="mb-4"> Phase II will be implemented in the counties of Kisumu, Homa Bay and Migori. However,
+                  Kisumu’s activities will be phased out at the end of 2020. The beneficiaries of the programme are;
+                  vulnerable communities, county govts and private sector actors the named counties
+                </p>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+      <section class="site-section testimonial-wrap">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+              <h2 class="text-black h1 site-section-heading text-center">Our Partners</h2>
+            </div>
+          </div>
+        </div>
+        <div class="slide-one-item home-slider owl-carousel">
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;One Vision Kenya.&rdquo;</p>
+              </blockquote>
+
+              <figure class="mb-4 d-flex align-items-center justify-content-center">
+                <div><img src="images/One Vision Kenya logo (2).jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p></p>
+              </figure>
+            </div>
+          </div>
+
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;CMAD.&rdquo;</p>
+              </blockquote>
+
+              <figure class="mb-4 d-flex align-items-center justify-content-center">
+                <div><img src="images/cmad.JPG" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p></p>
+              </figure>
+            </div>
+          </div>
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;Suswatch Kenya.&rdquo;</p>
+              </blockquote>
+
+              <figure class="mb-4 d-flex align-items-center justify-content-center">
+                <div><img src="images/suswatch.JPG" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p></p>
+              </figure>
+            </div>
+          </div>
+
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;Crep Programme.&rdquo;</p>
+              </blockquote>
+              <figure class="mb-4 d-flex align-items-center justify-content-center">
+                <div><img src="images/crep.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p> </p>
+              </figure>
+
+            </div>
+          </div>
+
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;Agriss.&rdquo;</p>
+              </blockquote>
+              <figure class="mb-4 d-flex align-items-center justify-content-center">
+                <div><img src="images/agris.JPG" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p> </p>
+              </figure>
+
+
+            </div>
+          </div>
+
+          <div>
+            <div class="testimonial">
+
+              <blockquote class="mb-5">
+                <p>&ldquo;Osienala.&rdquo;</p>
+              </blockquote>
+              <figure class="mb-4 d-flex align-items-center justify-content-center">
+                <div><img src="images/OSIENALA logo.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
+                <p> </p>
+              </figure>
+
+            </div>
+          </div>
+
+        </div>
+        <div> </div>
+      </section>
+
+
+      <section class="site-section border-bottom" id="services-section">
+        <div class="container">
+          <div class="row justify-content-center mb-5">
+            <div class="col-md-8 text-center" data-aos="fade-up">
+              <h2 class="text-black h1 site-section-heading text-center">Our Work</h2>
+            </div>
+
+          </div>
+          <div class="row align-items-stretch">
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+              <div class="unit-4 d-flex">
+
+                <div>
+                  <h3>Communities Output</h3>
+                  <p>Strengthening men and women from communities to be able to identify, plan, present and negotiate
+                    climate change adaptation interventions with Local authorities at Ward and Sub-county level and as
+                    result Community Adaptation Action Plans (CAAPs) including best practice models developed and
+                    negotiated with local authorities at Ward and sub-county level.</p>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
+              <div class="unit-4 d-flex">
+
+                <div>
+                  <h3>Advocacy & Communication Output </h3>
+                  <p>Through advocacy campaigns and demonstration of best practices, LAs recognize CSOs and Community
+                    Dialogue Forums (CDFs) as legitimate partners and CAAPs as valuable inputs for budget prioritization
+                    and as a result CDFs are invited by LAs for discussion of best practice projects for climate
+                    adaptation
+                  </p>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="200">
+              <div class="unit-4 d-flex">
+
+                <div>
+                  <h3>Consortium Output</h3>
+                  <p>Management of the consortium and joint planning of cooperation with strategic partners and LAs
+                    including CSO networks, strategic partners dealing with CC and devolution and with County
+                    authorities at all levels in mutual collaboration with communities resulting into increased impact
+                    of the program with refined capacity building
+                  </p>
+
+                </div>
+              </div>
+            </div>
+
+            <div class="container">
+              <div class="row mb-5 justify-content-center">
+                <div class="col-md-8 text-center">
+                  <h3> Private Sector Output </h3>
+                  <p class="lead">Dialogue, regular collaboration and meetings between communities, PS and the
+                    PCC.resulting in MoUs and increased engagement in solutions benefitting the communities</p>
+                </div>
+              </div>
+            </div>
+
+
+
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="unit-4 d-flex">
+
+                <div>
+                  <h3></h3>
+                  <p></p>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
+              <div class="unit-4 d-flex">
+
+                <div>
+                  <h3></h3>
+                  <p></p>
+
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      <div class="site-section" id="about-section">
+        <div class="container">
+          <div class="row mb-5">
+
+            <div class="col-md-5 ml-auto mb-5 order-md-2" data-aos="fade">
+              <img src="images/elijahtalks.JPG" alt="Image" class="img-fluid rounded">
+            </div>
+            <div class="col-md-6 order-md-1" data-aos="fade">
+
+              <div class="row">
+
+                <div class="col-12">
+                  <div class="text-left pb-1">
+                    <h2 class="text-black h1 site-section-heading">About Us</h2>
+                  </div>
+                </div>
+                <div class="col-12 mb-4">
+                  <p class="lead"></p>
+                </div>
+                <div class="col-md-12 mb-md-5 mb-0 col-lg-6">
+                  <div class="unit-4">
+
+                    <div>
+                      <h3>Aim of the program</h3>
+                      <p>To support vulnerable populations in Kisumu, Homa Bay and Migori counties at risk of natural
+                        hazards caused by climate change by increasingly supporting policies and components funded by
+                        devolution and climate change funds.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-12 mb-md-5 mb-0 col-lg-6">
+                  <div class="unit-4">
+
+                    <div>
+                      <h3>Output of the program</h3>
+                      <p>We work in cross sectoral Working Groups consisting of consortium members that form the
+                        backbone of the component outputs; Community sector output, Advocacy & Communication, Consortium
+                        and the private sector</p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+
+      <div class="site-section border-bottom" id="team-section">
+        <div class="container">
+          <div class="row justify-content-center mb-5">
+            <div class="col-md-7 text-center">
+              <h2 class="text-black h1 site-section-heading">Our Team</h2>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
+              <div class="person text-center">
+                <img src="images/Elijah Odundo (DaCCA Programme Coordinator).jpg" alt="Image"
+                  class="img-fluid rounded-circle w-50 mb-5">
+                <h3>Elijah Odundo</h3>
+                <p class="position text-muted"> Programme Coordinator</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
+              <div class="person text-center">
+                <img src="images/velma.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
+                <h3>Velma Oseko</h3>
+                <p class="position text-muted"> Programme Assistant</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
+              <div class="person text-center">
+                <img src="images/Christine Okwiri (DaCCA Programme Finance Officer).jpg" alt="Image"
+                  class="img-fluid rounded-circle w-50 mb-5">
+                <h3>Christine Okwiri</h3>
+                <p class="position text-muted"> Finance Officer</p>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- <div class="row">
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
+              <div class="person text-center">
+                <img src="images/Dr. Godfrey Ogonda ( Private Sector Working Group, Team Lead).jpg" alt="Image"
+                  class="img-fluid rounded-circle w-50 mb-5">
+                <h3>Dr. Godfrey Ogonda </h3>
+                <p class="position text-muted"> Private Sector Working Group, Team Lead</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
+              <div class="person text-center">
+                <img src="images/Nobert Nyandire (Advocacy & Communication, Team Lead).jpg" alt="Image"
+                  class="img-fluid rounded-circle w-50 mb-5">
+                <h3>Nobert Nyandire</h3>
+                <p class="position text-muted"> Advocacy & Communication, Team Lead</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
+              <div class="person text-center">
+                <img src="images/Collins Ochieng' (Communities Working Group Team Leader).jpg" alt="Image"
+                  class="img-fluid rounded-circle w-50 mb-5">
+                <h3> Collins Ochieng' </h3>
+                <p class="position text-muted"> Communities Working Group Team Lead</p>
+              </div>
+            </div>
+          </div> -->
+
+          <!-- <div class="row">
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
+              <div class="person text-center">
+                <img src="images/Daniel Mutinda ( Communities Working Group member).jpg" alt="Image"
+                  class="img-fluid rounded-circle w-50 mb-5">
+                <h3>Daniel Mutinda </h3>
+                <p class="position text-muted"> Communities Working Group Member</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
+              <div class="person text-center">
+                <img src="images/Daniel Nyambok ( Communities Working Group member).jpg" alt="Image"
+                  class="img-fluid rounded-circle w-50 mb-5">
+                <h3>Daniel Nyambok </h3>
+                <p class="position text-muted">Communities Working Group member</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
+                <div class="person text-center">
+                  <img src="images/Milton Oboka ( Youth Coordinator, Advocacy and Communication Working Group).jpg"
+                    alt="Image" class="img-fluid rounded-circle w-50 mb-5">
+                  <h3>Milton Oboka </h3>
+                  <p class="position text-muted"> Youth Coordinator, Advocacy and communication Working Group Member</p>
+                </div>
+              </div>
+              <<div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
+                <div class="person text-center">
+                  <img src="images/Rose Swaka ( Communities Working Group member).jpg" alt="Image"
+                    class="img-fluid rounded-circle w-50 mb-5">
+                  <h3>Rose Swaka </h3>
+                  <p class="position text-muted"> Communities Working Group member </p>
+                </div>
+            </div>
+          </div> -->
+
+
+          <!-- <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
+            <div class="person text-center">
+              <img src="images/Mike Joseph Odhiambo (Advocacy&Communication Working Group).jpg" alt="Image"
+                class="img-fluid rounded-circle w-50 mb-5">
+              <h3>Mike Joseph Odhiambo </h3>
+              <p class="position text-muted">Advocacy and communication Working Group Member</p>
+            </div>
+          </div>
+          < <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
+            <div class="person text-center">
+              <img src="images/David Odhiambo ( Advocacy & Communication Working Group).jpg" alt="Image"
+                class="img-fluid rounded-circle w-50 mb-5">
+              <h3>David Odhiambo </h3>
+              <p class="position text-muted">Advocacy & Communication Working Group</p>
+            </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
+          <div class="person text-center">
+            <img src="images/Anne Okello (Communities and Private Sector Working Group member).jpg" alt="Image"
+              class="img-fluid rounded-circle w-50 mb-5">
+            <h3>Anne Okello </h3>
+            <p class="position text-muted"> Communities and Private Sector Working Group member</p>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
+          <div class="person text-center">
+            <img src="" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
+            <h3> Nancy Ng'ong'a </h3>
+            <p class="position text-muted">Advocacy and communication Working Group Member</p>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
+          <div class="person text-center">
+            <img src="" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
+            <h3> </h3>
+            <p class="position text-muted"> </p>
+          </div>
+        </div>
+      </div> -->
+
+  </div>
+  </div>
+
+
+
+  <section class="site-section" id="blog-section">
+    <div class="container">
+      <div class="row justify-content-center mb-5">
+        <div class="col-md-8 text-center">
+          <h2 class="text-black h1 site-section-heading text-center">Video Blog</h2>
+        </div>
+      </div>
+
+      <div class="youtube-videos">
+
+        <div class="h-entry">
+
+
+          <h2 class="font-size-regular">Take Climate Action
+            Campaign</h2><br>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" width="560" height="315"
+              src="https://www.youtube.com/embed/obipk3H_Fwk" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
+          </div>
+        </div>
+
+        <div class="h-entry" id="more-videos">
+
+          <h2 id="more-text" class="font-size-regular">For more of our videos, <a
+              href="https://www.youtube.com/channel/UCfHTchWNEJkGAjmS2dwiKfw/videos"> click here</a>
+        </div> 
+
+
+        <!-- <div class="h-entry">
+
+              <h2 class="font-size-regular">Fishing Activities and Climate
+                Change</h2>
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" width="560" height="315"
+                  src="https://www.youtube.com/embed/yFHFd5H4dyo" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe>
+              </div>
+            </div>
+
+
+            <div class="h-entry">
+
+              <h2 class="font-size-regular">Food Insecurity in Karachuonyo
+                Constituency</h2>
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" width="560" height="315"
+                  src="https://www.youtube.com/embed/tGanWFzNmU0" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe></div>
+            </div>
+
+
+
+
+            <div class="h-entry">
+              <h2 class="font-size-regular">Improving Livelihoods through
+                Climate Smart Farming</h2>
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" width="560" height="315"
+                  src="https://www.youtube.com/embed/nF472hV1nNw" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe>
+              </div>
+            </div> -->
+
+
+
+
+        <!-- <div class="h-entry">
+              <a href="https://youtu.be/tGanWFzNmU0"><video src="https://youtu.be/tGanWFzNmU0" alt="Videos"
+                  class="video-fluid"></a>
+              <h2 class="font-size-regular"><a href="https://youtu.be/tGanWFzNmU0">Water dilema in Nyando, Kisumu
+                  County, Kenya</a></h2>
+
+            </div>
+
+            <div class="h-entry">
+              <a href="https://youtu.be/MPZrJxLZXAU"><video src="https://youtu.be/MPZrJxLZXAU" alt="Videos"
+                  class="video-fluid"></a>
+              <h2 class="font-size-regular"><a href="https://youtu.be/MPZrJxLZXAU">Effects of Floods on Education
+                  System
+                </a></h2>
+            </div>
+
+
+            <div class="h-entry">
+              <a href="https://youtu.be/71Ro7EysRLc"><video src="https://youtu.be/71Ro7EysRLc" alt="Video"
+                  class="video-fluid"></a>
+              <h2 class="font-size-regular"><a href="https://youtu.be/71Ro7EysRLc">Climate Change and Marine
+                  Fisheries</a></h2>
+            </div>
+
+
+            <div class="h-entry">
+              <a href="https://youtu.be/WkDwRbqnIKY"><video src="https://youtu.be/WkDwRbqnIKY" alt="Videos"
+                  class="video-fluid"></a>
+              <h2 class="font-size-regular"><a href="https://youtu.be/WkDwRbqnIKY">Climate Change Interventions in
+                  Western Kenya</a></h2>
+
+            </div> -->
+
+      </div>
+
+  </section>
+
+
+
+
+  <section class="site-section bg-light" id="contact-section">
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-12 text-center">
+          <h2 class="text-black h1 site-section-heading">Contact Us</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-7 mb-5">
+
+          <form method="post" action="welcome.php"  class="p-5 bg-white">
+            <h2 class="h4 text-black mb-5">Contact Form</h2>
+
+            <div class="row form-group">
+              <div class="col-md-6 mb-3 mb-md-0">
+               First name
+                <input type="text"  name="first_name" value="<?=$varFirstname;?>">
+              </div>
+              <div class="col-md-6">
+              Last name
+                <input type="text"  name="last_name"  value="<?=$varLastname;?>">
+              </div>
+            </div>
+
+            <div class="row form-group">
+
+              <div class="col-md-12">
+                Email
+                <input type="email" name="contact_email" value="<?=$varEmail;?>">
+              </div>
+            </div>
+
+            <div class="row form-group">
+
+              <div class="col-md-12">
+               Subject
+                <input type="subject"  name="contact_subject" value="<?=$varSubject;?>">
+              </div>
+            </div>
+
+            <div class="row form-group">
+              <div class="col-md-12">
+              Message
+                <input type="text" name="contact_message" value="<?=$varMessage;?>">
+    
+              </div>
+            </div>
+
+            <div class="row form-group">
+              <div class="col-md-12">
+
+                <input type="submit" name ="formSubmit" value="Submit" >
+              
+              </div>
+            </div>
+          </form>
+          
+<!--           
+          <form action="myform.php" method="post">
+    Which is your favorite movie?
+    <input type="text" name="formMovie" maxlength="50" value="<?=$varMovie;?>">
+
+    What is your name?
+    <input type="text" name="formName" maxlength="50" value="<?=$varName;?>">
+
+    <input type="submit" name="formSubmit" value="Submit">
+</form> -->
+
+          
+          <p name="response"></p>
+        </div>
+        <div class="col-md-5">
+
+          <div class="p-4 mb-3 bg-white">
+            <p class="mb-0 font-weight-bold">Address</p>
+            <p class="mb-4">P.O BOX 100 - 40300,
+              Homa Bay
+            </p>
+
+            <p class="mb-4"> </p>
+
+            <p class="mb-0 font-weight-bold">Phone</p>
+            <p class="mb-4"><a href="tel://#">+254733631047</a></p>
+
+            <p class="mb-0 font-weight-bold">Email Address</p>
+            <p class="mb-0"><a href=" info@daccaprogram.org"> info@daccaprogram.org</a></p>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <a href="#" class="bg-primary py-5 d-block">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md10">
+          <h2 class="text-white">Don't miss out</h2>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9">
+          <div class="row">
+            <div class="col-md-5">
+              <h2 class="footer-heading mb-4">About Us</h2>
+              <p>We are an environmental
+                and climatic activist Program
+
+              </p>
+              <p><a href="https://unitingforclimate.org/#">Communication output</a></p>
+            </div>
+            <div class="col-md-3 ml-auto">
+              <h2 class="footer-heading mb-4">Features</h2>
+              <ul class="list-unstyled">
+                <li><a href="#">About Us</a></li>
+
+                <li><a href="#">Our Work</a></li>
+                <li><a href="#">Testimonials</a></li>
+                <li><a href="#">Contact Us</a></li>
+
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2 class="footer-heading mb-4">Follow Us</h2>
+              <a href="https://web.facebook.com/daccaprogramme/posts/586266185488763?_rdc=1&_rdr"
+                class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+              <a href="https://twitter.com/voices4_climate" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <h2 class="footer-heading mb-4">Subscribe to our Newsletter</h2>
+          <form action="#" method="post">
+            <div class="input-group mb-3">
+              <input type="text" class="form-control border-secondary text-white bg-transparent"
+                placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
+              <div class="input-group-append">
+                <button class="btn btn-primary text-white" type="button" id="button-addon2">Send</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="row pt-5 mt-5 text-center">
+        <div class="col-md-12">
+          <div class="border-top pt-5">
+            <p>
+
+              Copyright &copy;<span id="year">
+                <script>document.getElementById("year").innerHTML = new Date().getFullYear()</script> </span>All
+              rights reserved | Developed by <i< /i> <a href="" target="_blank">TK Solutions</a>
+
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+
+  </div> <!-- .site-wrap -->
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+
+  <script src="js/typed.js"></script>
+  <script>
+    var typed = new Typed('.typed-words', {
+      strings: ["Web Apps", " WordPress", " Mobile Apps"],
+      typeSpeed: 80,
+      backSpeed: 80,
+      backDelay: 4000,
+      startDelay: 1000,
+      loop: true,
+      showCursor: true
+    });
+  </script>
+
+  <script src="js/main.js"></script>
+
+
+
+</body>
+
+</html>
