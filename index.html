@@ -472,7 +472,7 @@
 
           </div>
 
-          <!-- <div class="row">
+          <div class="row">
             <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
               <div class="person text-center">
                 <img src="images/Dr. Godfrey Ogonda ( Private Sector Working Group, Team Lead).jpg" alt="Image"
@@ -497,44 +497,33 @@
                 <p class="position text-muted"> Communities Working Group Team Lead</p>
               </div>
             </div>
-          </div> -->
-
-          <!-- <div class="row">
+          </div>
+          <div class="row">
             <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
               <div class="person text-center">
-                <img src="images/Daniel Mutinda ( Communities Working Group member).jpg" alt="Image"
+                <img src="images/Charles Nyakora (Private Sector Working Group Member).jpg" alt="Image"
                   class="img-fluid rounded-circle w-50 mb-5">
-                <h3>Daniel Mutinda </h3>
-                <p class="position text-muted"> Communities Working Group Member</p>
+                <h3>Charles Nyakora </h3>
+                <p class="position text-muted"> Private Sector Working Group Member</p>
               </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
               <div class="person text-center">
+                <img src="images/Milton Oboka ( Youth Coordinator, Advocacy and Communication Working Group).jpg" alt="Image"
+                  class="img-fluid rounded-circle w-50 mb-5">
+                <h3>Milton Oboka</h3>
+                <p class="position text-muted"> Youth Coordinator, Advocacy and Communication Group Member</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
+              <div class="person text-center">
                 <img src="images/Daniel Nyambok ( Communities Working Group member).jpg" alt="Image"
                   class="img-fluid rounded-circle w-50 mb-5">
-                <h3>Daniel Nyambok </h3>
-                <p class="position text-muted">Communities Working Group member</p>
+                <h3> Daniel Nyambok </h3>
+                <p class="position text-muted"> Communities Working Group Member</p>
               </div>
             </div>
-            <div class="row">
-              <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-                <div class="person text-center">
-                  <img src="images/Milton Oboka ( Youth Coordinator, Advocacy and Communication Working Group).jpg"
-                    alt="Image" class="img-fluid rounded-circle w-50 mb-5">
-                  <h3>Milton Oboka </h3>
-                  <p class="position text-muted"> Youth Coordinator, Advocacy and communication Working Group Member</p>
-                </div>
-              </div>
-              <<div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
-                <div class="person text-center">
-                  <img src="images/Rose Swaka ( Communities Working Group member).jpg" alt="Image"
-                    class="img-fluid rounded-circle w-50 mb-5">
-                  <h3>Rose Swaka </h3>
-                  <p class="position text-muted"> Communities Working Group member </p>
-                </div>
-            </div>
-          </div> -->
-
+          </div> 
 
           <!-- <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
             <div class="person text-center">
