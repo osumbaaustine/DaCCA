@@ -750,6 +750,7 @@
               
               </div>
             </div>
+            <p id="response"></p>
           </form>
           
 <!--           
@@ -764,7 +765,7 @@
 </form> -->
 
           
-          <p name="response"></p>
+          
         </div>
         <div class="col-md-5">
 

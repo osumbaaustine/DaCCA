@@ -23,7 +23,11 @@ if($_POST['formSubmit'] == "Submit")
   }
   if(empty($_POST['contact_message'])) 
   {
-    $errorMessage .= "<li>You forgot to enter a message!</li>";
+    "<script src='js/main.js'></script>
+    <script type='text/javascript'>
+    document.getElementById('response').innerHTML = 'You forgot to enter a message!';
+    </script>";
+    
   }
 
 

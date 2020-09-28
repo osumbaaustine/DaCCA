@@ -5,9 +5,7 @@
  });
 
 
-document.getElementById("contactform").addEventListener("click", ()=>{
-	
-})
+
 
 jQuery(document).ready(function($) {
 
